@@ -8,6 +8,9 @@ main:
   - title: "Current Projects"
     url: /current_projects/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Talks & Seminars"
     url: /talks/    
 
