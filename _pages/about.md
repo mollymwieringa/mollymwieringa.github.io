@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: " " 
 header: 
   overlay_image: header.png
 author_profile: true
@@ -23,4 +24,4 @@ In progress.
 *Teaching Philosophy*
 In progress. 
 
-Thanks for visiting! Please email me if you'd like to chat!
+Thanks for visiting!
