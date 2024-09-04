@@ -2,8 +2,7 @@
 permalink: /
 title: " "
 header: 
-  - overlay_image
-  - header.jpg
+  overlay_image: header.png
 author_profile: true
 redirect_from: 
   - /about/
