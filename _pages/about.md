@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Welcome!"
 header: 
   overlay_image: header.png
 author_profile: true
